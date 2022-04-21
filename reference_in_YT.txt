@@ -1,0 +1,22 @@
+https://youtu.be/qulRjRFavJI  ----> subnetting
+https://youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P  ----> CCNA networking
+
+AWS
+---
+https://youtu.be/ywHFXfuJoSU  -----> syllabus for AWS cert
+https://levelup.gitconnected.com/setup-aws-ci-cd-for-serverless-deployment-5d346e60bf96
+https://youtube.com/playlist?list=PL7kXAf0BmEqura2P3brCGE4pIfeSh-kgw
+https://youtube.com/playlist?list=PLie35GAskAJmztL_SKrqsbEQy60YtaXf-   -----> Tamil videos
+https://www.youtube.com/watch?v=fGspu_Sa8co
+Link: https://youtu.be/HyX_ECXIy-w
+https://youtu.be/fJZI3e9bVU8
+
+---------> serverless lambda <-----------------
+          ------------------
+https://youtu.be/Laanlg9lluQ   
+https://youtu.be/va-3lnElYIA
+https://youtu.be/D5_FHbdsjRc
+https://youtu.be/oFYFqOzJdqY
+https://youtube.com/playlist?list=PLmexTtcbIn_gP8bpsUsHfv-58KsKPsGEo
+https://www.serverless.com/framework/docs/providers/aws/guide/services#:~:text=It's%20where%20you%20define%20your,Framework%20project%2C%20create%20a%20service%20.
+https://youtu.be/sku9Rrci-tE
